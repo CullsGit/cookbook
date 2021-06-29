@@ -1,0 +1,17 @@
+.formBtn {
+  margin-top: 1.5rem;
+  width: 100%;
+}
+
+.formLabel {
+  font-family: "Stint Ultra Condensed", cursive;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  color: white;
+  font-size: 200%;
+  margin: 1.1rem;
+}
+
+.form-group {
+  margin: 1rem;
+}
+

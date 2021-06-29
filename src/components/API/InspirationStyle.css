@@ -1,0 +1,8 @@
+.recipeCards {
+    display: inline-block;
+  }
+
+.cardInspo {
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px black;
+}

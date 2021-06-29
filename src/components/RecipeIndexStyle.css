@@ -1,0 +1,20 @@
+.card {
+  width: 18rem;
+  margin: 10px 10px;
+}
+
+.card-body {
+  font-family: "Stint Ultra Condensed", cursive;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+.recipeText {
+  font-size: 1.7rem;
+}
+
+.recipeTitle {
+  font-size: 3rem;
+  text-decoration: underline;
+  text-align: center;
+  color: blueviolet;
+}
